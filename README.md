@@ -1,5 +1,14 @@
-### Hi there 👋
+<h1 align="center">👋 Hey there. I'm Douglas </br></h1> 
 
+<!--<p align="center">
+  <a href="https://www.linkedin.com/in/douglas-gaskell">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&style=flat-square&logo=linkedin&color=blue&labelColor=blue&label=%20">
+  </a>
+</p>-->
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasg14b&theme=vision-friendly-dark)](https://github.com/douglasg14b/github-readme-stats)
+![DOuglasg14b's github stats](https://github-readme-stats.vercel.app/api?username=douglasg14b&theme=vision-friendly-dark&show_icons=true&count_private=true)
 <!--
 **douglasg14b/douglasg14b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
