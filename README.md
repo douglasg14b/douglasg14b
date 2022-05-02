@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there. I'm Douglas </br></h1> 
+<h1 align="center">👋 </br></h1> 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/douglas-gaskell">
