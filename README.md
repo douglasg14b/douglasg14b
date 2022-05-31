@@ -2,6 +2,8 @@
 
 I'm Douglas, a Fullstack developer in Oregon, US.
 
+I enjoy writing utilities & tools, and gamedev in my spare time!
+
 
 <h3>Things I code with</h3>
 <p>
