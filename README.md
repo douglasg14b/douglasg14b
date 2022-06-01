@@ -7,7 +7,7 @@ I enjoy writing utilities & tools, and gamedev in my spare time!
 
 <h3>Things I code with</h3>
 <p>
-    <img alt="React"" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+    <!--<img alt="React"" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />-->
     <img alt="JavaScript"" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
     <img alt="Vue"" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
     <img alt="C#"" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
